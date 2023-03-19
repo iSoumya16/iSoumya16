@@ -1,5 +1,5 @@
 <h1 align="center">My name is Soumya Majumder</h1>
-<h3 align="center">I am an aspiring Data Science enthusiast pursuing Final Year Bachelor of Technology in Electrical Engineering. I've worked on case studies using frameworks such as Excel, Tableau and PowerBI. I have also programming skills in Python and SQL and brief overview of Machine Learning.</h3>
+<h3 align="center">I am an aspiring Data Science enthusiast pursuing Final Year Bachelor of Technology in Electrical Engineering. I've worked on case studies using frameworks such as Excel, Tableau and PowerBI. I have also programming skills in Python and SQL and also familiar with Machine Learning.</h3>
 <img align="right" alt = "Coding" width="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isoumya16&label=Profile%20views&color=0e75b6&style=flat" alt="isoumya16" /> </p>
 
