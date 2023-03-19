@@ -9,6 +9,8 @@ Skills:
 • PowerBI
 • Excel
 
+### Contact
+https://www.vecteezy.com/png/18930587-linkedin-logo-png-linkedin-icon-transparent-png  https://www.linkedin.com/in/soumya-majumder-1982a21b2/
 
 <!--
 **iSoumya16/iSoumya16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
