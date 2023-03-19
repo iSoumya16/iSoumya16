@@ -1,4 +1,14 @@
-### Hi there 👋
+### My name is Soumya Majumder
+I am an aspiring Data Science enthusiast pursuing Final Year Bachelor of Technology in Electrical Engineering. I've worked on case studies using frameworks such as Excel,Tableau and PowerBI. I have also programming skills in Python and SQL.
+
+Skills:
+• Python
+• SQL
+• Machine Learning
+• Tableau
+• PowerBI
+• Excel
+
 
 <!--
 **iSoumya16/iSoumya16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
