@@ -1,5 +1,5 @@
 ### My name is Soumya Majumder
-I am an aspiring Data Science enthusiast pursuing Final Year Bachelor of Technology in Electrical Engineering. I've worked on case studies using frameworks such as Excel,Tableau and PowerBI. I have also programming skills in Python and SQL.
+I am an aspiring Data Science enthusiast pursuing Final Year Bachelor of Technology in Electrical Engineering. I've worked on case studies using frameworks such as Excel, Tableau and PowerBI. I have also programming skills in Python and SQL.
 
 Skills:
 • Python
