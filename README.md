@@ -1,7 +1,7 @@
 <h1 align="center">My name is Soumya Majumder</h1>
 <h3 align="center">I am an aspiring Data Science enthusiast pursuing Final Year Bachelor of Technology in Electrical Engineering. I've worked on case studies using frameworks such as Excel, Tableau and PowerBI. I have also programming skills in Python and SQL and also familiar with Machine Learning.</h3>
 
-<img align="right" alt = "Coding" width="400" src = "[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966)">
+<img align="right" alt = "Coding" width="400" src = "https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isoumya16&label=Profile%20views&color=0e75b6&style=flat" alt="isoumya16" /> </p>
 
